@@ -27,14 +27,15 @@ Step 2. Add the dependency
   
 Step 3. Add in xml
 
+```
  <com.feilong.horizontalporgressbar.HorProgressView
-        android:id="@+id/horProcessView3"
-        android:layout_width="200dp"
-        android:layout_height="30dp"
-        app:processColor="@color/colorPrimary"
-        app:processTextColor="#fff"
-        app:processTextSize="14sp"
-        app:barWidth="12dp"/>
-
+	 android:id="@+id/horProcessView3"
+	 android:layout_width="200dp"
+	 android:layout_height="30dp"
+	 app:processColor="@color/colorPrimary"
+	 app:processTextColor="#fff"
+	 app:processTextSize="14sp"
+	 app:barWidth="12dp"/>
+```
         
 
